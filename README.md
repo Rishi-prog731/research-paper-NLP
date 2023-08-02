@@ -58,3 +58,9 @@ Run the scripts
 ```
 
 Record times using VSCode extensions or inbuilt Sublime text compilation timer
+
+## Pre-print IEEE TechRXIV
+
+- [@Pre-print server paper link](https://www.techrxiv.org/articles/preprint/Examining_the_Runtime_of_NLTK_and_TensorFlow_Algorithms_for_Chatbot_Based_on_intents_json_Length/23542260/3)
+
+## Run Locally
