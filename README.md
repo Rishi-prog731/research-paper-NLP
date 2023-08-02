@@ -79,6 +79,6 @@ Harvard - Hariharaprasad, R., 2023. Examining the Runtime of NLTK and TensorFlow
 
 Vancouver - Hariharaprasad R. Examining the Runtime of NLTK and TensorFlow Algorithms for Chatbot Based on intents. json Length.
 
-## Google Scholar Account
+## Google Scholar 
 
-https://scholar.google.com/citations?user=0wgK-0sAAAAJ&hl=en
+[Account](https://scholar.google.com/citations?user=0wgK-0sAAAAJ&hl=en)
