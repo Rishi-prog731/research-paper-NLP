@@ -66,3 +66,19 @@ Record times using VSCode extensions or inbuilt Sublime text compilation timer
 ## Publication
 
 Coming soon
+
+## Cite
+
+MLA - Hariharaprasad, Rishi. "Examining the Runtime of NLTK and TensorFlow Algorithms for Chatbot Based on intents. json Length." (2023).
+
+APA - Hariharaprasad, R. (2023). Examining the Runtime of NLTK and TensorFlow Algorithms for Chatbot Based on intents. json Length.
+
+Chicago - Hariharaprasad, Rishi. "Examining the Runtime of NLTK and TensorFlow Algorithms for Chatbot Based on intents. json Length." (2023).
+
+Harvard - Hariharaprasad, R., 2023. Examining the Runtime of NLTK and TensorFlow Algorithms for Chatbot Based on intents. json Length.
+
+Vancouver - Hariharaprasad R. Examining the Runtime of NLTK and TensorFlow Algorithms for Chatbot Based on intents. json Length.
+
+## Google Scholar Account
+
+https://scholar.google.com/citations?user=0wgK-0sAAAAJ&hl=en
